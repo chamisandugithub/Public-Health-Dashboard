@@ -5,6 +5,8 @@ The **Western Australia Public Health Insights Dashboard** is an interactive ana
 
 The dashboard transforms complex datasets into **interactive, actionable insights**, enabling evidence-based decision-making for **healthcare providers, researchers, and policymakers**. Data was sourced from [data.gov.au](https://www.data.gov.au/).
 
+🔗 **View the live Power BI dashboard:** [Western Australia Public Health Insights Dashboard](https://app.powerbi.com/links/Z_ZDleXJW3?ctid=8f791105-7a87-467c-b4d4-b39c0ecb63c6&pbi_source=linkShare)
+
 ## 🌍 Real-World Significance
 - Provides **data-driven insights** for public health planning and resource allocation  
 - Identifies **regional disparities** in health outcomes and healthcare access  
