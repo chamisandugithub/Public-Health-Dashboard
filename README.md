@@ -11,7 +11,7 @@ The dashboard transforms complex datasets into **interactive, actionable insight
 ## 🎥 Dashboard Short Video
 Click the preview image below to watch a short video demonstrating the interactive features of the Power BI dashboard, including slicers and dynamic visuals.
 
-[![Dashboard Short Video](dashboard demo.png)](https://drive.google.com/file/d/1TVd41iYa2P_34267Y37ZzqXqosKZYxu7/view?usp=sharing)
+[![Dashboard Short Video](DashboardImage.png)](https://drive.google.com/file/d/1TVd41iYa2P_34267Y37ZzqXqosKZYxu7/view?usp=sharing)
 
 ## 🌍 Real-World Significance
 - Provides **data-driven insights** for public health planning and resource allocation  
