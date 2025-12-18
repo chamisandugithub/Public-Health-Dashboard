@@ -8,10 +8,10 @@ The dashboard transforms complex datasets into **interactive, actionable insight
 🔗 **View the live Power BI dashboard:** [Western Australia Public Health Insights Dashboard](https://app.powerbi.com/links/Z_ZDleXJW3?ctid=8f791105-7a87-467c-b4d4-b39c0ecb63c6&pbi_source=linkShare)
 
 
-## 🎥 Dashboard Demo Video
-Click the preview image below to watch a short video demonstrating the interactive features of the Power BI dashboard, including slicers, dynamic visuals, and real-time insights.
+## 🎥 Dashboard Short Video
+Click the preview image below to watch a short video demonstrating the interactive features of the Power BI dashboard, including slicers and dynamic visuals.
 
-[![Dashboard Demo Video](dashboard demo.png)](https://drive.google.com/file/d/1TVd41iYa2P_34267Y37ZzqXqosKZYxu7/view?usp=sharing)
+[![Dashboard Short Video](dashboard demo.png)](https://drive.google.com/file/d/1TVd41iYa2P_34267Y37ZzqXqosKZYxu7/view?usp=sharing)
 
 ## 🌍 Real-World Significance
 - Provides **data-driven insights** for public health planning and resource allocation  
